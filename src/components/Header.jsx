@@ -24,7 +24,7 @@ const Header = () => {
     >
       <div className="container flex justify-between items-center gap-[30px] sm:gap-0 flex-col sm:flex-row">
         <a href="/">
-          <img src="/src/assets/images/logo.svg" alt="logo" />
+          <img src="../assets/images/logo.svg" alt="logo" />
         </a>
 
         <nav>
